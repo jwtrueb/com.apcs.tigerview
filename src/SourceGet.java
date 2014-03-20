@@ -12,7 +12,11 @@
  * 		1. Username for tigerview
  * 		2. Password for tigerview
  * 		3. School student id
- * 6.
+ * 		
+ * TODO
+ * 	Account for cases such as X or Z for a grade
+ * 	Account for lack of grades
+ * 	Make sure it all works
  */
 
 import java.io.IOException;
